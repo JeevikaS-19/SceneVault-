@@ -1,0 +1,17 @@
+{
+  "name": "scenevault-",
+  "version": "1.0.0",
+  "description": "A discovery platform for writers to find and browse scene excerpts by genre and situation for inspiration, plus tools to map out your own stories.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "vite": "^5.2.10"
+  }
+}
