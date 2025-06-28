@@ -1,17 +1,15 @@
 {
-  "name": "scenevault-",
+  "name": "scenevault-jvks",
   "version": "1.0.0",
-  "description": "A discovery platform for writers to find and browse scene excerpts by genre and situation for inspiration, plus tools to map out your own stories.",
+  "description": "SceneVault: Discover and explore writing prompts by genre and theme",
   "main": "index.js",
   "scripts": {
-    "start": "lite-server",
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Jeevika",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1",
-    "vite": "^5.2.10"
+    "vite": "^5.4.19"
   }
 }
